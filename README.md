@@ -6,6 +6,12 @@ Ada beberapa model yang kami gunakan yaitu :
 - ARIMA
 
 Tujuan : 
-- Visualisasi
-- Analisis Tren Penjualan Harian
+- Menghasilkan Visualisasi
+- Analisis Tren Penjualan
 - Forecasting 
+
+Content🗂️🗒️
+- Preprocessing
+- Visualization
+- Algoritma Generation
+- Insights for business strategy
