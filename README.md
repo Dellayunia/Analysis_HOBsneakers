@@ -16,4 +16,4 @@ Content🗂️🗒️
 - Algoritma Generation
 - Insights for business strategy : Berdasarkan hasil Forecasting, diketahui bahwa prediksi penjualan selama seminggu kedepan akan stabil dan termasuk kecil (pada hari Senin-Kamis) sedangkan pada weekend (Jumat-Minggu) akan cenderung meningkat dibanding pada weekdays. Insight ini dapat digunakan untuk mengelola stock dengan mempertimbangkan juga indikator produk yang paling laris.
 
-  
+
